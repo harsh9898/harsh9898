@@ -27,4 +27,6 @@ Here are some ideas to get you started:
 
 
 ## About Me
+I have more than a year of experience in multiple internships including Machine Learning Research Intern at <a href="https://www.prl.res.in/prl-eng/">PRL-ISRO</a> , Software Engineer Internship -ML & AI  at <a href="https://www.fanalyze.com/">Fanalyze</a>, and software engineer intern at <a href="https://www.softqubes.com/">SoftQube Technologies</a>. During my journey as a student and intern, I have build many scalable, efficient, and robust applications which can be checked in my github profile. Currently, I am looking for for Internship positions starting from Spring 2021 or Summer 2021.
+
 
