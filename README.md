@@ -18,10 +18,11 @@ Here are some ideas to get you started:
   Hi there 👋 I'm Harsh Kathiriya 👨‍💻
 </h1>
 
-🔭 I’m currently working as Porduct Manager/Data Scientist at Big Analytixs.
+🔭 I’m currently working as Product Manager - Data Science at Big Analytixs.
 🌱 I’m currently learning and developing the LLM based apps where users can interact with it.
 
-## Computer Science Graduate Student at <a href="https://www.csus.edu/">CSUS</a>
+## Product Manager - Data Science at <a href="https://www.biganalytixs.com/">Big Analytixs</a>
+## Computer Science Graduate Alumni at <a href="https://www.csus.edu/">CSUS</a>
 
 [![Linkedin: Harsh Kathiriya](https://img.shields.io/badge/-harshkathiriya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harsh-kathiriya-895b7b126/)](https://www.linkedin.com/in/harsh-kathiriya-895b7b126/)
 [![GitHub Harsh Kathiriya](https://img.shields.io/github/followers/harsh9898?label=follow&style=social)](https://github.com./harsh9898)
