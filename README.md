@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   Hi there 👋 I'm Harsh Kathiriya 👨‍💻
 </h1>
 
-🔭 I’m currently working as Product Manager - Data Science at Big Analytixs.
+🔭 I’m currently working as Data Scientist II at Big Analytixs.
 🌱 I’m currently learning and developing the LLM based apps where users can interact with it.
 
 ## Data Scientist II at <a href="https://www.biganalytixs.com/">Big Analytixs</a>
