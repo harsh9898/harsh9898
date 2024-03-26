@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </h1>
 
 🔭 I’m currently working as Data Scientist II at Big Analytixs.
-🌱 I’m currently learning and developing the LLM based apps where users can interact with it.
+🌱 I’m currently learning and developing LLM-based web apps where users can interact with them.
 
 ## Data Scientist II at <a href="https://www.biganalytixs.com/">Big Analytixs</a>
 ## Computer Science Graduate Alumni at <a href="https://www.csus.edu/">CSUS</a>
